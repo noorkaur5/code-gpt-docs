@@ -24,10 +24,10 @@ Read-only operations - explores without making changes
 ## 🤖 Agent Mode
 **Best for: Active development, implementing features, and project modifications**
 
-Full project modification capabilities (create, edit, delete files)
-Executes terminal commands (install packages, run tests, etc.)
-Works iteratively with automatic progression
-Implements complete features with best practices
+Full project modification capabilities (create, edit, delete files).
+Executes terminal commands (install packages, run tests, etc.).
+Works iteratively with automatic progression.
+Implements complete features with best practices.
 
 # How to Switch Profiles
 - Step 1: Access Profile Selection
