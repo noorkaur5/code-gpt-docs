@@ -1,7 +1,7 @@
 
 # Comment CodeGPT
 
-The Comment CodeGPT feature allows you to create notes on your codebase to help you and your AI agents make more informed decisions. By selecting specific code segments, you can create comments.
+With the Comment CodeGPT feature, CodeGPT analyzes your selected code snippet and automatically generates clear, concise, and contextually relevant comments for it.
 
 ## How to Use:
   
