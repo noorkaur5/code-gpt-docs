@@ -3,13 +3,12 @@ sidebar_position: 2
 ---
 # Profile Modes
 
-CodeGPT offers three distinct profile modes to match your development workflow. Each mode provides different levels of project interaction and capabilities.
-Available Profiles
+CodeGPT offers three distinct profile modes to match your development workflow. Each mode provides different levels of project interaction and capabilities. Available Profiles:
 
 ## 💬 Chat Mode
 **Best for: Learning, code explanations, and general programming questions**
 
-Provides expert programming guidance without project context
+Provides expert programming guidance without project context.
 Perfect for debugging code snippets you share
 Explains concepts, algorithms, and best practices
 Works with any code you copy-paste into the conversation
@@ -17,7 +16,7 @@ Works with any code you copy-paste into the conversation
 ## 🔍 Search Mode
 **Best for: Understanding existing codebases and getting context-aware suggestions**
 
-Automatically explores your project structure and dependencies
+Automatically explores your project structure and dependencies.
 Provides suggestions based on your existing codebase
 Analyzes architecture patterns and project organization
 Read-only operations - explores without making changes
