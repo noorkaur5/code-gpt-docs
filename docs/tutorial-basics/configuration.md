@@ -64,7 +64,7 @@ Click on `Create Codebase Index` to start indexing your codebase.
 
 <img width="489" alt="Screenshot 2025-05-19 at 16 38 13" src="https://github.com/user-attachments/assets/a0f272b2-a652-4cfa-9e7f-b5f41b8fe745" />
 
-With this feature, the agent will have accesso to the Semantic Search Tool, which allows you to search for code snippets based on their meaning.
+With this feature, the agent will have access to the Semantic Search Tool, which allows you to search for code snippets based on their meaning.
 
 ### Deep Insights
 Click on `Deep Insights` to connect your Knowledge Graph from CodeGPT Studio  and use it as context for your conversations.
