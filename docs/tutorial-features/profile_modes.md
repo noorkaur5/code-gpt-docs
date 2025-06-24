@@ -44,7 +44,7 @@ Implements complete features with best practices.
 <img width="585" alt="Screenshot 2025-06-08 at 12 26 01" src="https://github.com/user-attachments/assets/e8754c78-906a-4a31-bc88-6eb360dd87db" />
 
 - Step 3: Verify Profile Selection
-The active profile will be displayed in the chat interface. You'll see different capabilities based on your selection.
+The active profile will be displayed in the chat interface. You'll see different capabilities based on your selection. Click on the gear icon in the bottom right corner to view the configuration settings as shown below.
 
 <img width="662" alt="Screenshot 2025-06-08 at 12 34 13" src="https://github.com/user-attachments/assets/8e6b58c0-a7ec-4fb2-93b2-edcbba02977c" />
 
@@ -64,7 +64,7 @@ CodeGPT will automatically explore your project to understand the auth implement
 
 ### Using Agent Mode
 You: "Add a sign up button in the sidebar"
-CodeGPT will explore your project, plan the implementation, and make the necessary file changes.
+CodeGPT will explore your project, plan the implementation, and directly make the necessary file changes.
 
 <img width="692" alt="Screenshot 2025-06-08 at 13 20 23" src="https://github.com/user-attachments/assets/8d56c9ed-ee1c-41c8-ab36-d6f066ac2700" />
 
