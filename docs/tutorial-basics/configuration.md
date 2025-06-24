@@ -70,6 +70,7 @@ Use Codebase Indexing When:
 - You want CodeGPT to understand and work with your entire project
 - You need context-aware suggestions, navigation, or implementations
 - You're working on larger features, refactors, or debugging across files
+- You want access to more advanced tools like Semantic Search and Knowledge Graphs
 
 ### Codebase
 Click on `Create Codebase Index` to start indexing your codebase.
