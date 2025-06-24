@@ -63,7 +63,7 @@ CodeGPT will automatically explore your project to understand the auth implement
 <img width="696" alt="Screenshot 2025-06-08 at 12 36 48" src="https://github.com/user-attachments/assets/24bf2c4d-4afb-4c6c-acdf-b490db494f1a" />
 
 ### Using Agent Mode
-You: "Add a sing up button in the sidebar"
+You: "Add a sign up button in the sidebar"
 CodeGPT will explore your project, plan the implementation, and make the necessary file changes.
 
 <img width="692" alt="Screenshot 2025-06-08 at 13 20 23" src="https://github.com/user-attachments/assets/8d56c9ed-ee1c-41c8-ab36-d6f066ac2700" />
