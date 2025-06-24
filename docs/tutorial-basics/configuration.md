@@ -59,6 +59,18 @@ The Codebase Indexing feature allows you to index your codebase and use it as co
 
 <img width="307" alt="Screenshot 2025-05-19 at 16 37 40" src="https://github.com/user-attachments/assets/c3023f78-8681-4ed0-a311-efc191b1e6b4" />
 
+You might ask what the difference is between Codebase Indexing and simply highlighting text for context. Here's a quick guide on why you might choose to use each:
+
+Use Highlighting When:
+- You’re focused on a small snippet or specific bug
+- You don’t want to give access to your whole project
+- You need quick, one-off explanations
+
+Use Codebase Indexing When:
+- You want CodeGPT to understand and work with your entire project
+- You need context-aware suggestions, navigation, or implementations
+- You're working on larger features, refactors, or debugging across files
+
 ### Codebase
 Click on `Create Codebase Index` to start indexing your codebase.
 
