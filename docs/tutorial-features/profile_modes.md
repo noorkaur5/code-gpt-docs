@@ -98,3 +98,12 @@ Profile Not Working as Expected?
 - Switch to Search Mode to explore and understand first
 - Use Chat Mode for specific questions about implementations
 - Remember: you can always review changes before they're applied
+
+# What Can Go Wrong If You Use the Wrong Mode?
+Using the wrong mode can lead to:
+- Wasted time
+- Confusing results
+- Accidental file changes
+- Missed insights
+
+👉 Tip: Always double-check your active mode before giving a command — and use version control when in Agent Mode.
