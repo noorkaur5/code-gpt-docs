@@ -12,10 +12,7 @@ The CodeGPT Chat feature enhances your development experience by allowing you to
 - If you request code, copy or paste it directly into the file with the `Insert code` button which is the arrow on the top right of the code.
 - You can clean the chat by clicking on `New chat` button or `Reload` the question
 
-
-<p align="center">
-      <img width="750" height="550" src="![image](https://github.com/user-attachments/assets/e4c4e54d-9421-4fe7-84d3-d0998e1144ce)"/>
-</p>
+![image](https://github.com/user-attachments/assets/e4c4e54d-9421-4fe7-84d3-d0998e1144ce)
 
 :::note CodeGPT Chat conversation
 <p align="center">
