@@ -98,12 +98,8 @@ You can use the shortcuts to make the most of the CodeGPT Chat feature. Here are
 - [`/Explain`](https://docs.codegpt.co/docs/tutorial-features/code_explanation): Explain the code selected
 - [`/Refactor`](https://docs.codegpt.co/docs/tutorial-features/code_refactoring): Refactor the code selected
 - [`/Document`](https://docs.codegpt.co/docs/tutorial-features/code_documentation): Generate documentation for the code selected
-- [`/Inline code`](https://docs.codegpt.co/docs/tutorial-features/code_inline): edit specific words inside the selected code. 
 - [`/Unit Test`](https://docs.codegpt.co/docs/tutorial-features/unit_testing): Test the code selected
 - [`/Comment`](ddd): Comment the code selected
-- [`/StackOverflow`](https://docs.codegpt.co/docs/tutorial-features/stackoverflow): Search for the code selected on StackOverflow 
-- [`/Code Builder`](https://docs.codegpt.co/docs/tutorial-features/code_builder): Generate a code builder for the code selected
-- [`/Code Interpreter`](https://docs.codegpt.co/docs/tutorial-features/code_interpreter): Interpret the code selected without executing it
 - [`/Planning`](dddd): allow expert agents from our Marketplace to help you plan the code.
 
 
