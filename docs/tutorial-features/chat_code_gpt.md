@@ -7,9 +7,9 @@ The CodeGPT Chat feature enhances your development experience by allowing you to
 
 ## How to Use:
 - Open the Chat Tab
-- Navigate to the tools tab and click on `Chat` By default, `Claude-3.5-Sonnet` will answer on the chat.
+- Navigate to the tools tab and click on `Chat` By default, `Gemini-2.5-Flash` will answer on the chat.
 - Once the chat tab opens, you can start a conversation by typing a message and hitting `Enter`.
-- If you request code, copy or paste it directly into the file with the `Insert code` button.
+- If you request code, copy or paste it directly into the file with the `Insert code` button which is the arrow on the top right of the code.
 - You can clean the chat by clicking on `New chat` button or `Reload` the question
 
 :::note CodeGPT Chat conversation
