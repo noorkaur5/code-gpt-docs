@@ -24,20 +24,20 @@ An MCP Server is a service that exposes tools and functionalities to the MCP Hos
 Follow these steps to add and configure an MCP server in CodeGPT:
 
 1. Open Settings
-Click on the gear icon (⚙️) located in the sidebar to open the Settings menu.​
+  Click on the gear icon (⚙️) located in the sidebar to open the Settings menu.​
 
 <img width="495" alt="Screenshot 2025-04-28 at 12 20 35" src="https://github.com/user-attachments/assets/ae687290-1380-428d-a954-73e6c5bb4f34" />
 
 2. Navigate to the MCP Configuration Tab
-In the Settings menu, select the MCP Configuration tab to access MCP-related settings.​
+  In the Settings menu, select the MCP Configuration tab to access MCP-related settings.​
 
-4. Open the MCP Config File
-Click on Open MCP Config File to open the configuration file (mcp.json) where you can define your MCP servers.​
+3. Open the MCP Config File
+  Click on Open MCP Config File to open the configuration file (mcp.json) where you can define your MCP servers.​
 
 <img width="454" alt="Screenshot 2025-04-28 at 12 21 08" src="https://github.com/user-attachments/assets/97891032-c399-4301-b40b-ce1b8eaed708" />
 
-5. Add Your Server Configuration
-In the mcp.json file, add your server configuration. For example, to add a filesystem server:​
+4. Add Your Server Configuration
+  In the mcp.json file, add your server configuration. For example, to add a filesystem server:​
 
 ```json
 {
@@ -60,7 +60,7 @@ In the mcp.json file, add your server configuration. For example, to add a files
 
 
 5. Refresh Server Connections
-After saving your configuration, return to the MCP Configuration tab and click on Refresh Server Connections to apply the changes and start the new server.​
+  After saving your configuration, return to the MCP Configuration tab and click on Refresh Server Connections to apply the changes and start the new server.​
 
 
 ## Exploring Available Tools
