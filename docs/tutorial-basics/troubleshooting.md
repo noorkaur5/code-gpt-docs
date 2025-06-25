@@ -38,7 +38,7 @@ For macOS and Linux:
 lsof -i :54112
 kill -9 <PID>
 ```
-Replace `<PID>` with the actual Process ID using the port.
+Replace `<PID>` with the actual Process ID using the port. The first command will give you this 4-digit Process ID number.
 
 
 ### Using devcontainer
