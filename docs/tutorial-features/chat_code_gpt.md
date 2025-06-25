@@ -14,6 +14,9 @@ The CodeGPT Chat feature enhances your development experience by allowing you to
 
 ![image](https://github.com/user-attachments/assets/e4c4e54d-9421-4fe7-84d3-d0998e1144ce)
 <img src="https://github.com/user-attachments/assets/e4c4e54d-9421-4fe7-84d3-d0998e1144ce" width="450" height="250">
+<p style="text-align: center;">
+    <img src="https://github.com/user-attachments/assets/e4c4e54d-9421-4fe7-84d3-d0998e1144ce" width="300" height="200">
+</p>
 
 :::note CodeGPT Chat conversation
 <p align="center">
