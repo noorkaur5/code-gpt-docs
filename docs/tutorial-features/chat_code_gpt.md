@@ -110,5 +110,15 @@ You can use the shortcuts to make the most of the CodeGPT Chat feature. Here are
 </p>
 :::
 
+:::note CodeGPT: Features
+To use any of the above features, log in to your CodeGPT account. You’ll get a limited number of free interactions each day.
+
+If you want more usage and access to advanced AI models without setting up your own API keys, you can subscribe to a paid plan.
+
+Prefer to use it for free? Just add your own API key (like from OpenAI or Anthropic), and you'll be billed directly by that provider.
+
+To learn how to do this, please refer to the following [link](https://help.codegpt.co/en/articles/9939744-connect-codegpt-to-vscode)
+:::
+
 Make the most of CodeGPT Chat and experience a new level of productivity in your coding endeavors.
 
