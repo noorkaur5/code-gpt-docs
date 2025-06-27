@@ -16,6 +16,7 @@ The main menu is your primary navigation hub within the CodeGPT application. It 
 - `Autocomplete`: 💻 Enhance your coding experience with intelligent code completion suggestions (enable by default). Also, you can find the button for direct access here:
 
 <p align="center"><img width="350" height="140" src="https://github.com/user-attachments/assets/fad500f4-b276-4973-b450-3bfea4784ec9"/></p>
+![image](https://github.com/user-attachments/assets/77eaef66-7fbc-4db0-85de-bcc33124e5d2)
 
 ## Help
 
