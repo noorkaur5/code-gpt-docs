@@ -22,7 +22,7 @@ The main menu is your primary navigation hub within the CodeGPT application. It 
 Please be sure to look here when you need help.
 
 - `Extension Docs`: The document you are reading right now.
-- `API Docs`: 📝 Access the API documentation for CodeGPT.
+- `API Docs`: 📝 Access the [API documentation](https://developers.codegpt.co/) for CodeGPT.
 - `Report an issue`: Any issues you encounter can be reported in the [Github repository](https://github.com/JudiniLabs/code-gpt-docs/issues).
 - `Feedback`: [Send](https://codegpt.canny.io/requests) 💌 feedback to the team to help us improve the product. 
 
