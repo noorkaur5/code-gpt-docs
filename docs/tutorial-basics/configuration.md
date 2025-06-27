@@ -18,9 +18,8 @@ The main menu is your primary navigation hub within the CodeGPT application. It 
 <p align="center"><img width="350" height="140" src="https://github.com/user-attachments/assets/fad500f4-b276-4973-b450-3bfea4784ec9"/></p>
 
 <p align="center">
-    <img src="https://github.com/user-attachments/assets/77eaef66-7fbc-4db0-85de-bcc33124e5d2" width="450" height="250">
+    <img src="https://github.com/user-attachments/assets/77eaef66-7fbc-4db0-85de-bcc33124e5d2" width="350" height="140">
 </p>
-![image]()
 
 ## Help
 
