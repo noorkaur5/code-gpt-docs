@@ -91,8 +91,6 @@ With this feature, the agent will have access to the Knowledge Graph Tool, which
 ## Chat History
 You can access the chat history by clicking on the `Chat History` button in the sidebar menu.
 
-<img width="187" alt="Screenshot 2025-05-19 at 17 11 54" src="https://github.com/user-attachments/assets/759ed241-e96b-45c6-afb6-48b57679f96d" />
-
 <p align="center">
     <img src="https://github.com/user-attachments/assets/38c68ed0-83bb-4792-b5dd-bfe20568e150" width="350" height="140">
 </p>
