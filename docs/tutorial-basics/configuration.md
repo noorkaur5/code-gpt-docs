@@ -15,8 +15,6 @@ The main menu is your primary navigation hub within the CodeGPT application. It 
 - `Chat`: Engage in AI conversations using the models of your chosen provider or with agents on CodeGPT Plus.
 - `Autocomplete`: 💻 Enhance your coding experience with intelligent code completion suggestions (enable by default). Also, you can find the button for direct access here:
 
-<p align="center"><img width="350" height="140" src="https://github.com/user-attachments/assets/fad500f4-b276-4973-b450-3bfea4784ec9"/></p>
-
 <p align="center">
     <img src="https://github.com/user-attachments/assets/77eaef66-7fbc-4db0-85de-bcc33124e5d2" width="350" height="140">
 </p>
@@ -94,4 +92,11 @@ With this feature, the agent will have access to the Knowledge Graph Tool, which
 You can access the chat history by clicking on the `Chat History` button in the sidebar menu.
 
 <img width="187" alt="Screenshot 2025-05-19 at 17 11 54" src="https://github.com/user-attachments/assets/759ed241-e96b-45c6-afb6-48b57679f96d" />
+
+<p align="center">
+    <img src="https://github.com/user-attachments/assets/38c68ed0-83bb-4792-b5dd-bfe20568e150" width="350" height="140">
+</p>
+
+
+
 
