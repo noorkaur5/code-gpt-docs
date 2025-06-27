@@ -73,16 +73,16 @@ Use Codebase Indexing When:
 - You want access to more advanced tools like Semantic Search and Knowledge Graphs
 
 ### Codebase
-Click on `Create Codebase Index` to start indexing your codebase.
+Click on `Create Codebase Index` and select a target folder to start indexing your codebase.
 
-<img width="489" alt="Screenshot 2025-05-19 at 16 38 13" src="https://github.com/user-attachments/assets/a0f272b2-a652-4cfa-9e7f-b5f41b8fe745" />
+<img width="413" alt="image" src="https://github.com/user-attachments/assets/c8bbbe7a-55ee-4d89-bfd8-4621a3439b8b" />
 
 With this feature, the agent will have access to the Semantic Search Tool, which allows you to search for code snippets based on their meaning.
 
-### Deep Insights
-Click on `Deep Insights` to connect your Knowledge Graph from CodeGPT Studio  and use it as context for your conversations.
+### Repo Insight Agents
+Click on `Repo Insight Agents` to connect your Knowledge Graph from CodeGPT Studio  and use it as context for your conversations.
 
-<img width="485" alt="Screenshot 2025-05-19 at 16 40 04" src="https://github.com/user-attachments/assets/6798f46b-ab54-4cfa-abdd-ef0fecf5ba59" />
+<img width="413" alt="image" src="https://github.com/user-attachments/assets/83608526-5013-41d0-b392-1bddd236dda4" />
 
 With this feature, the agent will have access to the Knowledge Graph Tool, which allows you to search nodes and edges based on their meaning.
 
