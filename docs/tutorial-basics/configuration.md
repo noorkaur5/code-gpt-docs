@@ -13,7 +13,7 @@ The main menu is your primary navigation hub within the CodeGPT application. It 
 ### Tools
 
 - `Chat`: Engage in AI conversations using the models of your chosen provider or with agents on CodeGPT Plus.
-- `Autocomplete`: 💻 Enhance your coding experience with intelligent code completion suggestions (enable by default). Also, you can find the button for direct access here:
+- `Autocomplete`: 💻 Enhance your coding experience with intelligent code completion suggestions (enabled by default). Also, you can find the button for direct access here:
 
 <p align="center">
     <img src="https://github.com/user-attachments/assets/77eaef66-7fbc-4db0-85de-bcc33124e5d2" width="350" height="140">
@@ -21,7 +21,7 @@ The main menu is your primary navigation hub within the CodeGPT application. It 
 
 ## Help
 
-Please be sure to look here when you need help.
+Please feel free to refer to this section when you need help.
 
 - `Extension Docs`: The document you are reading right now.
 - `API Docs`: 📝 Access the [API documentation](https://developers.codegpt.co/) for CodeGPT.
@@ -48,12 +48,12 @@ You can adjust the position of the chat panel by dragging it from the sidebar me
 
 <p align="center"><img width="550" height="300" src="https://github.com/user-attachments/assets/06f76e59-524a-488e-82e5-c8836fd9302d"/></p>
 
-- Now, you can use the CodeGPT Extension to synchronize the [custom agents](https://docs.codegpt.co/docs/tutorial-features/chat_code_gpt), a LLM model or the [provider of your preference](https://docs.codegpt.co/docs/category/-ai-providers). 
+- Now, you can use the CodeGPT Extension to synchronize the [custom agents](https://docs.codegpt.co/docs/tutorial-features/chat_code_gpt), an LLM model, or the [provider of your preference](https://docs.codegpt.co/docs/category/-ai-providers). 
 
 <p align="center"><img width="550" height="300" src="https://github.com/user-attachments/assets/8ba019c9-200e-4609-8f6c-ba5b25ce0bfc"/></p>
 
 :::info
-If you have your API Key from another AI provider, please go to the specific section [here](https://docs.codegpt.co/docs/category/-ai-providers) and choose your provider.
+If you have an API Key from another AI provider, please navigate to the specific section [here](https://docs.codegpt.co/docs/category/-ai-providers) and select your provider.
 :::
 
 ## Codebase Indexing
@@ -61,10 +61,10 @@ The Codebase Indexing feature allows you to index your codebase and use it as co
 
 <img width="307" alt="Screenshot 2025-05-19 at 16 37 40" src="https://github.com/user-attachments/assets/c3023f78-8681-4ed0-a311-efc191b1e6b4" />
 
-You might ask what the difference is between Codebase Indexing and simply highlighting text for context. Here's a quick guide on why you might choose to use each:
+What is the difference between Codebase Indexing and simply highlighting text for context? Here's a quick guide on why you might choose to use each:
 
 Use Highlighting When:
-- You’re focused on a small snippet or specific bug
+- You’re focused on a small snippet or a specific bug
 - You don’t want to give access to your whole project
 - You need quick, one-off explanations
 
@@ -86,7 +86,7 @@ Click on `Repo Insight Agents` to connect your Knowledge Graph from CodeGPT Stud
 
 <img width="413" alt="image" src="https://github.com/user-attachments/assets/83608526-5013-41d0-b392-1bddd236dda4" />
 
-With this feature, the agent will have access to the Knowledge Graph Tool, which allows you to search nodes and edges based on their meaning.
+With this feature, the agent will have access to the Knowledge Graph Tool, which enables searching for nodes and edges based on their meaning.
 
 ## Chat History
 You can access the chat history by clicking on the `Chat History` button in the sidebar menu.
